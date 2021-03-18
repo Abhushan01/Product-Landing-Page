@@ -132,7 +132,7 @@ p{
     color:orangered;
 }
 .preview-column{
-    padding:7% 15%;
+    
     display: flex;
     
     flex-direction: column;
@@ -148,7 +148,7 @@ p{
 .screen{
     width:200px;
     display: flex;
-   margin:10px;
+   margin:30px;
    border-radius:30px;
    box-shadow: grey 10px 10px 30px;
 }
